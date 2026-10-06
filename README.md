@@ -1,7 +1,7 @@
 <p>
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg" />
-    <img src="./assets/header.svg" width="100%" alt="Ziad Hassanein — Full-stack .NET developer. APIs, integrations, and products people use." />
+    <source media="(max-width: 600px)" srcset="./assets/header-mobile-animated.svg" />
+    <img src="./assets/header-animated.svg" width="100%" alt="Ziad Hassanein — Full-stack .NET developer. APIs, integrations, and products people use." />
   </picture>
 </p>
 
