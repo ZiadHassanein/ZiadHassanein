@@ -3,5 +3,5 @@ https://press.aboutamazon.com/logos
 https://assets.aboutamazon.com/59/21/d658597b447d97f8bc9aef3362e0/logo-inverse-1.svg
 Retrieved 2026-10-06. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.
 
-Veerly app logo: supplied by the profile owner from the Veerly Flutter app's
-assets/images/app_logo.svg. Original colors and proportions preserved.
+Flutter logo used in the Veerly panel: PNG supplied by the profile owner
+on 2026-10-06. Original image, colors, transparency and proportions preserved.
