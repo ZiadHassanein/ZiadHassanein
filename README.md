@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-**Code patterns:** [Pagination](https://github.com/Ziad501/PaginationPattern) · [Results](https://github.com/Ziad501/ResultPattern) · [Exception handling](https://github.com/Ziad501/GlobalExceptions)
+**Code patterns:** [Pagination](https://github.com/ZiadHassanein/PaginationPattern) · [Results](https://github.com/ZiadHassanein/ResultPattern) · [Exception handling](https://github.com/ZiadHassanein/GlobalExceptions)
 
 ## Stack
 
