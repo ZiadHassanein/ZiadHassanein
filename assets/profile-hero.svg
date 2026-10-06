@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="286" viewBox="0 0 1160 286" fill="none" role="img" aria-labelledby="title desc"><title id="title">Ziad Hassanein — Full-stack .NET Developer</title><desc id="desc">Software Developer at Icanlo. ITI graduate, first in cohort. A signal travels from interface through .NET to data.</desc><style>.signal{stroke-dasharray:22 378;stroke-dashoffset:60}@keyframes signal{from{stroke-dashoffset:400}to{stroke-dashoffset:0}}@media(prefers-reduced-motion:no-preference){.signal{animation:signal 6s linear infinite}}</style><rect x=".5" y=".5" width="1159" height="285" rx="4" fill="#101720" stroke="#273341"/>
+ <path d="M40 34H80" stroke="#68A9FF" stroke-width="3"/>
+ <text x="98" y="39" fill="#91A3B8" font-family="Consolas, Liberation Mono, monospace" font-size="16" letter-spacing="1.5">C# / ASP.NET CORE</text>
+ <text x="38" y="132" fill="#E9EFF6" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="650" letter-spacing="-2.8">Ziad Hassanein</text>
+ <text x="42" y="178" fill="#91A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="400" >Full-stack .NET Developer</text>
+ <path d="M42 212H662" stroke="#273341"/>
+ <text x="42" y="249" fill="#E9EFF6" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="1.5">ICANLO</text>
+ <circle cx="141" cy="242" r="2" fill="#91A3B8"/>
+ <text x="158" y="249" fill="#91A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" >ITI · 1st in cohort</text>
+ <text x="590" y="249" fill="#91A3B8" font-family="Consolas, Liberation Mono, monospace" font-size="14" letter-spacing="1.5">EGYPT</text>
+ <g transform="translate(740 35) scale(1)">
+  <path d="M28 42H92V106H160M240 106H298V172H340" stroke="#273341" stroke-width="2"/>
+  <path class="signal" d="M28 42H92V106H160M240 106H298V172H340" pathLength="400" stroke="#68A9FF" stroke-width="2"/>
+  <path d="M179 60L201 48L223 60M179 152L201 164L223 152" stroke="#385372"/>
+  <circle cx="201" cy="106" r="43" stroke="#3A5678"/>
+  <circle cx="201" cy="106" r="36" fill="#142438" stroke="#68A9FF" stroke-opacity=".65"/>
+  <text x="171" y="115" fill="#E9EFF6" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" >.NET</text>
+  <rect x="0" y="22" width="46" height="34" rx="3" fill="#101720" stroke="#91A3B8" stroke-width="1.5"/>
+  <path d="M1 31H45M9 38L5 42L9 46M37 38L41 42L37 46" stroke="#91A3B8" stroke-width="1.5"/>
+  <text x="0" y="82" fill="#91A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" >Interface</text>
+  <g transform="translate(336 150)" stroke="#91A3B8" stroke-width="1.5"><path d="M0 7V34C0 44 42 44 42 34V7M0 21C0 31 42 31 42 21"/><ellipse cx="21" cy="7" rx="21" ry="7" fill="#101720"/></g>
+  <text x="338" y="218" fill="#91A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" >Data</text>
+  <circle cx="92" cy="42" r="3" fill="#68A9FF"/><circle cx="298" cy="172" r="3" fill="#68A9FF"/>
+ </g>
+</svg>
