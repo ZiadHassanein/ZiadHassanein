@@ -5,7 +5,7 @@
 </picture>
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/ziad-hassanein/"><img src="./assets/contact-linkedin.svg" width="138" height="37" alt="LinkedIn" /></a>
   <a href="mailto:ziadmuhammed501@gmail.com"><img src="./assets/contact-email.svg" width="138" height="37" alt="Email Ziad" /></a>
 </p>
