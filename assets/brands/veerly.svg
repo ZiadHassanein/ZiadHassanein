@@ -1,0 +1,21 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="veerlyBg" x1="40" y1="20" x2="472" y2="492" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBBF24"/><stop offset="0.55" stop-color="#F59E0B"/><stop offset="1" stop-color="#D97706"/>
+    </linearGradient>
+    <linearGradient id="veerlyMk" x1="140" y1="120" x2="380" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#FFE9C2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="512" height="512" rx="140" fill="url(#veerlyBg)"/>
+
+  <!-- Speedometer gauge -->
+  <path d="M153.8 339 A118 118 0 1 1 358.2 339" fill="none" stroke="url(#veerlyMk)" stroke-width="26" stroke-linecap="round"/>
+  <g stroke="url(#veerlyMk)" stroke-width="9" stroke-linecap="round">
+    <path d="M181.5 323 L169.4 330"/><path d="M171.3 265.1 L157.5 262.6"/><path d="M200.7 214.1 L191.7 203.4"/><path d="M256 194 L256 180"/><path d="M311.3 214.1 L320.3 203.4"/><path d="M340.7 265.1 L354.5 262.6"/><path d="M330.5 323 L342.6 330"/>
+  </g>
+  <path d="M256 280 L315.1 204.4" stroke="url(#veerlyMk)" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="256" cy="280" r="24" fill="#FFFFFF"/>
+  <circle cx="256" cy="280" r="10" fill="#D97706"/>
+</svg>
