@@ -1,54 +1,73 @@
-<h1 align="center">Hi 👋, I'm Ziad</h1>
-<h3 align="center">A passionate Backend Developer from Egypt</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziad501&label=Profile%20views&color=0e75b6&style=flat" alt="ziad501" />
+<p>
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg" />
+    <img src="./assets/header.svg" width="100%" alt="Ziad Hassanein — Full-stack .NET developer. APIs, integrations, and products people use." />
+  </picture>
 </p>
 
----
-
-- 🔭 Currently working on **Final Touch** — a scalable e-commerce platform for finishing materials.  
-- 💬 Ask me about: **ASP.NET Core, Angular, SQL Server**  
-- 📫 How to reach me: **ziadmuhammed501@gmail.com**  
-- 🌐 Portfolio: [GitHub Profile](https://github.com/Ziad501)  
-- ⚡ Fun fact: *Coding is easy 😂*  
-
----
-
-<h3 align="center">🧑‍💼 Connect with me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ziad-hassanein/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin: 0 15px;" />
-  </a>
-  <a href="https://discord.com/users/ziad422" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" style="margin: 0 15px;" />
-  </a>
+<p>
+  <a href="https://www.linkedin.com/in/ziad-hassanein/"><img src="./assets/linkedin.svg" height="36" alt="Connect with Ziad on LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:ziadmuhammed501@gmail.com"><img src="./assets/email.svg" height="36" alt="Email Ziad" /></a>
 </p>
 
----
+### Hi, I'm Ziad — a full-stack .NET developer.
 
-<h3 align="center">🛠️ Tech Stack</h3>
-<p align="center">
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" style="margin: 10px"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="margin: 10px"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin: 10px"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" style="margin: 10px"/></a>
-  <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" style="margin: 10px"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" style="margin: 10px"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 10px"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 10px"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" style="margin: 10px"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin: 10px"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin: 10px"/></a>
-</p>
+I build API integrations, commerce tools, and learning products with **C#, ASP.NET Core, Angular, and React**. My work spans backend services, SQL, and the interfaces that bring them to life.
 
----
+I'm a **Software Developer at Icanlo** and an **ITI Full-Stack .NET graduate, ranked 1st in my cohort**.
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziad501&show_icons=true&locale=en&layout=compact" alt="ziad501 top langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziad501&show_icons=true&locale=en" alt="ziad501 stats" />
-</p>
+## What I'm building
+
+### RepriceMax · Amazon repricing platform
+
+At Icanlo, I contribute to the integrations and workflows that help sellers manage their Amazon business.
+
+- Integrate **Amazon SP-API** for listings, orders, inventory, and settlements.
+- Co-develop configurable repricing rules with minimum and maximum price bounds.
+- Build reporting features and **React / TypeScript** screens alongside ASP.NET Core APIs and SQL Server.
+
+**ASP.NET Core · SQL Server · React · TypeScript · Amazon SP-API**
+
+### Veerly · Multilingual driving-theory app
+
+I built the **ASP.NET Core backend** for a multilingual learning experience, covering JWT authentication, progress tracking, flashcards, and leaderboards. I also contribute Flutter features and create driving-scene learning content with Blender.
+
+**ASP.NET Core · SQL Server · Flutter · JWT**
+
+## Selected public projects
+
+### [Elite](https://github.com/Ziad501/Elite) · MVC storefront
+
+An **ASP.NET Core MVC** application with product and category management, user accounts, and a shopping cart. Built with ASP.NET Core Identity, Entity Framework Core, SQL Server, and separate presentation, data, and model projects.
+
+**C# · ASP.NET Core MVC · Identity · EF Core · SQL Server**
+
+### Engineering patterns
+
+Focused C# examples from my public repositories:
+
+| Project | Focus |
+| :--- | :--- |
+| **[PaginationPattern](https://github.com/Ziad501/PaginationPattern)** | Generic pagination with asynchronous queries, page metadata, and cancellation support. |
+| **[ResultPattern](https://github.com/Ziad501/ResultPattern)** | Explicit success and failure handling, generic result values, and reusable errors. |
+| **[GlobalExceptions](https://github.com/Ziad501/GlobalExceptions)** | Centralized ASP.NET Core exception handling with structured Problem Details responses and logging. |
+
+## My toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Backend** | C#, ASP.NET Core, Web API, EF Core, LINQ, SignalR |
+| **Frontend** | Angular, React, TypeScript, JavaScript, Tailwind CSS, Bootstrap |
+| **Data & infrastructure** | SQL Server, PostgreSQL, Redis, Docker, Amazon S3 |
+| **Architecture & messaging** | Clean Architecture, CQRS / MediatR, RabbitMQ / MassTransit, gRPC |
+
+## A little more about me
+
+- **ITI Full-Stack .NET** · Ranked 1st in cohort · 2025
+- **B.Sc. in Computer Engineering** · Behera Higher Institute for Engineering · 2021
+- Based in **Egypt** · Arabic and English
+
+## Let's connect
+
+Interested in .NET development, API integrations, or building a product together? Get in touch on **[LinkedIn](https://www.linkedin.com/in/ziad-hassanein/)** or email **[ziadmuhammed501@gmail.com](mailto:ziadmuhammed501@gmail.com)**.

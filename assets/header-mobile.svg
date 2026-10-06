@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Ziad Hassanein — Full-stack .NET Developer</title>
+  <desc id="desc">APIs, integrations, and products people use. Based in Egypt.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#0C1525"/><stop offset="1" stop-color="#102C34"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#86BFC5" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="600" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="600" height="340" rx="18" fill="url(#grid)"/>
+  <path d="M32 1H568" stroke="#6EE7C2" stroke-opacity=".6" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="32" y="28" width="38" height="38" rx="10" fill="#6EE7C2"/>
+    <text x="51" y="53" text-anchor="middle" fill="#0C1525" font-weight="700" font-size="17">ZH</text>
+    <text x="84" y="52" fill="#B2C7D1" font-size="16" letter-spacing="2">ENGINEER / BUILDER</text>
+    <text x="30" y="138" fill="#F4F8FB" font-weight="700" font-size="55" letter-spacing="-2.5">Ziad Hassanein<tspan fill="#6EE7C2">.</tspan></text>
+    <text x="32" y="178" fill="#6EE7C2" font-size="27" font-weight="500">Full-stack .NET Developer</text>
+    <text x="32" y="224" fill="#B9CCD6" font-size="20">APIs, integrations, and products people use.</text>
+    <path d="M32 254H568" stroke="#31505B"/>
+    <text x="32" y="290" fill="#D3DFE5" font-size="19">C# · ASP.NET Core · Angular · React</text>
+    <text x="32" y="321" fill="#86A7B3" font-size="13" letter-spacing="2">BASED IN EGYPT</text>
+  </g>
+</svg>
