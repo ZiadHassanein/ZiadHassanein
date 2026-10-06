@@ -13,14 +13,14 @@
 <p>
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/project-repricemax-mobile.svg" />
-  <img src="./assets/project-repricemax.svg" width="100%" alt="RepriceMax — Contributor. Amazon integrations, repricing workflows and React UI. Simplified workflow illustration." />
+  <img src="./assets/project-repricemax.svg" width="100%" alt="RepriceMax — Full-stack development: Amazon SP-API integrations; co-developed repricing rules and price limits; listings and strategies end-to-end; React and TypeScript migration; SQL Server design contributions and fast data transfer; performance, sales and margin reports with S3 CSV exports; technical partner coordination." />
 </picture>
 </p>
 
 <p>
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/project-veerly-mobile.svg" />
-  <img src="./assets/project-veerly.svg" width="100%" alt="Veerly — Built the .NET backend for a multilingual driving-theory app. Simplified product illustration." />
+  <img src="./assets/project-veerly.svg" width="100%" alt="Veerly — Multilingual driving-theory app. Built the ASP.NET Core backend with JWT authentication, learning progress, flashcards and leaderboards. Enhanced the Flutter app and integrated lessons, practice and progress tracking. Created learning content, illustrations and realistic driving-scene videos rendered in Blender." />
 </picture>
 </p>
 
