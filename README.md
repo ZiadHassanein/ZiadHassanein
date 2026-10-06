@@ -11,63 +11,34 @@
   <a href="mailto:ziadmuhammed501@gmail.com"><img src="./assets/email.svg" height="36" alt="Email Ziad" /></a>
 </p>
 
-### Hi, I'm Ziad — a full-stack .NET developer.
+**Software Developer @ Icanlo** · ITI Full-Stack .NET graduate, **1st in my cohort**.
 
-I build API integrations, commerce tools, and learning products with **C#, ASP.NET Core, Angular, and React**. My work spans backend services, SQL, and the interfaces that bring them to life.
+## Selected work
 
-I'm a **Software Developer at Icanlo** and an **ITI Full-Stack .NET graduate, ranked 1st in my cohort**.
+<table>
+  <tr>
+    <td width="60" align="center"><img src="./assets/repricing.svg" width="42" height="42" alt="" /></td>
+    <td><strong>RepriceMax</strong><br />Contributing to Amazon integrations, repricing workflows, and React UI.</td>
+  </tr>
+  <tr>
+    <td width="60" align="center"><img src="./assets/driving.svg" width="42" height="42" alt="" /></td>
+    <td><strong>Veerly</strong><br />Built the backend for a multilingual driving-theory app.</td>
+  </tr>
+  <tr>
+    <td width="60" align="center"><img src="./assets/storefront.svg" width="42" height="42" alt="" /></td>
+    <td><strong><a href="https://github.com/Ziad501/Elite">Elite ↗</a></strong><br />ASP.NET Core MVC storefront with accounts and a shopping cart.</td>
+  </tr>
+</table>
 
-## What I'm building
+**Code patterns:** [Pagination](https://github.com/Ziad501/PaginationPattern) · [Results](https://github.com/Ziad501/ResultPattern) · [Exception handling](https://github.com/Ziad501/GlobalExceptions)
 
-### RepriceMax · Amazon repricing platform
+## Stack
 
-At Icanlo, I contribute to the integrations and workflows that help sellers manage their Amazon business.
-
-- Integrate **Amazon SP-API** for listings, orders, inventory, and settlements.
-- Co-develop configurable repricing rules with minimum and maximum price bounds.
-- Build reporting features and **React / TypeScript** screens alongside ASP.NET Core APIs and SQL Server.
-
-**ASP.NET Core · SQL Server · React · TypeScript · Amazon SP-API**
-
-### Veerly · Multilingual driving-theory app
-
-I built the **ASP.NET Core backend** for a multilingual learning experience, covering JWT authentication, progress tracking, flashcards, and leaderboards. I also contribute Flutter features and create driving-scene learning content with Blender.
-
-**ASP.NET Core · SQL Server · Flutter · JWT**
-
-## Selected public projects
-
-### [Elite](https://github.com/Ziad501/Elite) · MVC storefront
-
-An **ASP.NET Core MVC** application with product and category management, user accounts, and a shopping cart. Built with ASP.NET Core Identity, Entity Framework Core, SQL Server, and separate presentation, data, and model projects.
-
-**C# · ASP.NET Core MVC · Identity · EF Core · SQL Server**
-
-### Engineering patterns
-
-Focused C# examples from my public repositories:
-
-| Project | Focus |
-| :--- | :--- |
-| **[PaginationPattern](https://github.com/Ziad501/PaginationPattern)** | Generic pagination with asynchronous queries, page metadata, and cancellation support. |
-| **[ResultPattern](https://github.com/Ziad501/ResultPattern)** | Explicit success and failure handling, generic result values, and reusable errors. |
-| **[GlobalExceptions](https://github.com/Ziad501/GlobalExceptions)** | Centralized ASP.NET Core exception handling with structured Problem Details responses and logging. |
-
-## My toolkit
-
-| Area | Technologies |
-| :--- | :--- |
-| **Backend** | C#, ASP.NET Core, Web API, EF Core, LINQ, SignalR |
-| **Frontend** | Angular, React, TypeScript, JavaScript, Tailwind CSS, Bootstrap |
-| **Data & infrastructure** | SQL Server, PostgreSQL, Redis, Docker, Amazon S3 |
-| **Architecture & messaging** | Clean Architecture, CQRS / MediatR, RabbitMQ / MassTransit, gRPC |
-
-## A little more about me
-
-- **ITI Full-Stack .NET** · Ranked 1st in cohort · 2025
-- **B.Sc. in Computer Engineering** · Behera Higher Institute for Engineering · 2021
-- Based in **Egypt** · Arabic and English
-
-## Let's connect
-
-Interested in .NET development, API integrations, or building a product together? Get in touch on **[LinkedIn](https://www.linkedin.com/in/ziad-hassanein/)** or email **[ziadmuhammed501@gmail.com](mailto:ziadmuhammed501@gmail.com)**.
+<p>
+  <img src="./assets/tech/csharp-tile.svg" width="80" height="99" alt="C#" title="C#" />
+  <img src="./assets/tech/dotnetcore-tile.svg" width="80" height="99" alt=".NET" title=".NET" />
+  <img src="./assets/tech/angular-tile.svg" width="80" height="99" alt="Angular" title="Angular" />
+  <img src="./assets/tech/react-tile.svg" width="80" height="99" alt="React" title="React" />
+  <img src="./assets/tech/microsoftsqlserver-tile.svg" width="80" height="99" alt="SQL Server" title="SQL Server" />
+  <img src="./assets/tech/docker-tile.svg" width="80" height="99" alt="Docker" title="Docker" />
+</p>
