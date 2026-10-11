@@ -1,7 +1,7 @@
 <p>
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/profile-hero-mobile.svg" />
-  <img src="./assets/profile-hero.svg" width="100%" alt="Ziad Hassanein — Full-stack .NET Developer at Icanlo. ITI graduate, 1st in cohort. Based in Egypt." />
+  <source media="(max-width: 600px)" srcset="./assets/profile-hero-details-mobile.svg" />
+  <img src="./assets/profile-hero-details.svg" width="100%" alt="Ziad Hassanein — Full-stack .NET Developer, working at Icanlo. ITI graduate, 1st in cohort. Based in Egypt." />
 </picture>
 </p>
 
