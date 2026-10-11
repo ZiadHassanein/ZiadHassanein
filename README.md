@@ -26,8 +26,8 @@
 
 <p>
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/stack-map-mobile.svg" />
-  <img src="./assets/stack-map.svg" width="100%" alt="Technology stack: C#, .NET, SQL Server, PostgreSQL, Redis, RabbitMQ, Angular, React, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Docker, Amazon S3, Git, Postman, AWS and Azure." />
+  <source media="(max-width: 600px)" srcset="./assets/stack-map-mobile.svg?v=cloud-20261011" />
+  <img src="./assets/stack-map.svg?v=cloud-20261011" width="100%" alt="Technology stack: C#, .NET, SQL Server, PostgreSQL, Redis, RabbitMQ, Angular, React, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Docker, Amazon S3, Git, Postman, AWS and Azure." />
 </picture>
 </p>
 
