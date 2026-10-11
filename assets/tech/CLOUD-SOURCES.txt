@@ -1,0 +1,11 @@
+AWS: Devicon amazonwebservices-original-wordmark.svg; reused from the existing profile assets, unchanged.
+https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg
+Git blob SHA: 39f9762a217d2cfce3b7e69f9b9add67597a2bf4
+
+Azure: Devicon azure-original.svg; original multicolor mark, unchanged.
+https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg
+Git blob SHA: 6c0d5a7a1cb7bd6cd452209d67dbba0341ccbbf3
+
+Source verified 2026-10-11 through the GitHub connector.
+Devicon is MIT licensed, copyright (c) 2015 konpa. Retain existing assets/tech/LICENSE.txt.
+Brand trademarks belong to their respective owners.
